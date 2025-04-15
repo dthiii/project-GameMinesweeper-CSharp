@@ -1,0 +1,30 @@
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe.config
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.AssemblyReference.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Form1.resources
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Properties.Resources.resources
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.GenerateResource.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.CoreCompileInputs.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe.config
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.AssemblyReference.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Form1.resources
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Properties.Resources.resources
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.GenerateResource.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.CoreCompileInputs.cache
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\thing\OneDrive - UFM\33.ĐANG HỌC\Lập trình C#.NET - Nguyễn Thanh Trường\Nhom8_LaptrinhGameMinesweeper_9301 1\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe.config
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\bin\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.AssemblyReference.cache
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Form1.resources
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.Properties.Resources.resources
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.GenerateResource.cache
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.csproj.CoreCompileInputs.cache
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.exe
+C:\Users\Bong cai xanh\OneDrive - UFM\0. ĐÃ HỌC XONG\LẬP TRÌNH C#.NET\C# 1\Đồ án\Nhom8_LaptrinhGameMinesweeper_9301\Nhom8_LaptrinhGameMinesweeper_9301\obj\Debug\Nhom8_LaptrinhGameMinesweeper_9301.pdb

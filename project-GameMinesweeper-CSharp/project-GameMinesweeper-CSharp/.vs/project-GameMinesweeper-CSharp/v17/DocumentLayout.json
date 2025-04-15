@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|d:\\github\\project-gameminesweeper-csharp\\project-gameminesweeper-csharp\\project-gameminesweeper-csharp\\project-gameminesweeper-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|project-GameMinesweeper-CSharp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954585-0A4C-44C8-BB90-5CBD74408F77}|Nhom8_LaptrinhGameMinesweeper_9301.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:40:09.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Nhom8_LaptrinhGameMinesweeper_9301\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Nhom8_LaptrinhGameMinesweeper_9301\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:40:11.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:40:11.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:41:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAALYAAAAAzczMzEwpwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:42:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Bong cai xanh\\OneDrive - UFM\\0. \u0110\u00C3 H\u1ECCC XONG\\L\u1EACP TR\u00CCNH C#.NET\\C# 1\\\u0110\u1ED3 \u00E1n\\Nhom8_LaptrinhGameMinesweeper_9301\\Nhom8_LaptrinhGameMinesweeper_9301\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:41:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GITHUB\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\project-GameMinesweeper-CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:43:37.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
